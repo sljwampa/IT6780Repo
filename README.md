@@ -7,9 +7,8 @@ _Welcome to Recipe Hub, your go-to platform for discovering, sharing, and enjoyi
 
 - _**User Registration and Login**: Create an account to access personalized features._
 - _**Recipe Submission**: Share your favorite recipes with the community._
--_**Recipe Search and Filter**: Find the perfect dish by searching for ingredients, cuisine, or difficulty._
-
--_**Ratings and Reviews**: Rate and review recipes to help others discover the best dishes._
+- _**Recipe Search and Filter**: Find the perfect dish by searching for ingredients, cuisine, or difficulty._
+- _**Ratings and Reviews**: Rate and review recipes to help others discover the best dishes._
 - _**Favorite Recipes**: Save your favorite recipes for quick access._
 - _**Community Interaction**: Follow other cooks, comment on recipes, and join forums._
   
