@@ -56,17 +56,23 @@ We welcome contributions to Recipe Hub! To contribute:
 
 1. Fork the repository.
 2. Create a new branch:
-   '''
-   git checkout -b feature/your-feature-name
-   '''
+
+'''
+git checkout -b feature/your-feature-name
+'''
+
 4. Make your changes and commit them:
-   '''
-   git commit -m 'Add some feature'
-   '''
+
+'''
+git commit -m 'Add some feature'
+'''
+
 6. Push to the branch:
-   '''
-   git push origin feature/your-feature-name
-   '''
+
+'''
+git push origin feature/your-feature-name
+'''
+
 8. Open a pull request.
 
 Please make sure your code adheres to our coding standards and includes relevant tests.
