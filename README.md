@@ -24,21 +24,21 @@ git clone https://github.com/yourusername/recipe-hub.git
 
 3. Navigate to the project directory:
 
-'''
+```
 cd recipe-hub
-'''
+```
 
 3. Install dependencies:
 
-'''
+```
 npm install
-'''
+```
 
 4. Start the development server:
 
-'''
+```
 npm start
-'''
+```
 
 5. The application will be running on `http://localhost:3000`.
 
@@ -57,21 +57,21 @@ We welcome contributions to Recipe Hub! To contribute:
 1. Fork the repository.
 2. Create a new branch:
 
-'''
+```
 git checkout -b feature/your-feature-name
-'''
+```
 
 4. Make your changes and commit them:
 
-'''
+```
 git commit -m 'Add some feature'
-'''
+```
 
 6. Push to the branch:
 
-'''
+```
 git push origin feature/your-feature-name
-'''
+```
 
 8. Open a pull request.
 
