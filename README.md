@@ -17,11 +17,9 @@ _Welcome to Recipe Hub, your go-to platform for discovering, sharing, and enjoyi
 To run this project locally:
 
 1. Clone the repository:
-
 '''
 git clone https://github.com/yourusername/recipe-hub.git
 '''
-
 2. Navigate to the project directory:
 
 '''
