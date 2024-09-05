@@ -83,8 +83,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-_- Thanks to the amazing contributor who made this project possible, myself, Michael Allen._
-_- Inspiration from various recipe websites and cooking blogs._
-_- Special thanks to the open-source community for providing great tools and libraries._
-_- This project is designed and developed for my IT 6780 Course at Utah Valley University._
-_- The Professor for this course is Dr. Kodey S. Crandall._
+- _Thanks to the amazing contributor who made this project possible, myself, Michael Allen._
+- _Inspiration from various recipe websites and cooking blogs._
+- _Special thanks to the open-source community for providing great tools and libraries._
+- _This project is designed and developed for my IT 6780 Course at Utah Valley University._
+- _The Professor for this course is Dr. Kodey S. Crandall._
